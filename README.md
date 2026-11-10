@@ -41,7 +41,7 @@ $ cat about.txt
 
 ---
 
-### `NAMA@github ~ $ ./stack.sh`
+### `Akmallutfi Afza Gusty@github ~ $ ./stack.sh`
 
 <div align="center">
 
@@ -51,7 +51,7 @@ $ cat about.txt
 
 ---
 
-### `NAMA@github ~ $ ./stats.sh`
+### `Akmallutfi Afza Gusty@github ~ $ ./stats.sh`
 
 <div align="center">
 
@@ -66,7 +66,7 @@ $ cat about.txt
 
 ---
 
-### `NAMA@github ~ $ ./contributions.sh`
+### `Akmallutfi Afza Gusty@github ~ $ ./contributions.sh`
 
 <div align="center">
 
@@ -78,13 +78,13 @@ $ cat about.txt
 
 ---
 
-### `NAMA@github ~ $ ./links.sh`
+### `Akmallutfi Afza Gusty@github ~ $ ./links.sh`
 
 <div align="center">
 
 **Fullstack Developer · Open Source Enthusiast**
 
-<a href="https://NAMA-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://Akmallutfi Afza Gusty-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:EMAIL-KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim_pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -93,13 +93,13 @@ $ cat about.txt
 
 ---
 
-### `NAMA@github ~ $ ./projects.sh`
+### `Akmallutfi Afza Gusty@github ~ $ ./projects.sh`
 
 <table>
 <tr>
 <td width="50%">
 
-**[📦 Nama Proyek 1](https://github.com/USERNAME/proyek-1)**
+**[📦 DesaKita Proyek 1](https://github.com/USERNAME/proyek-1)**
 Deskripsi singkat satu kalimat tentang proyek ini.
 `React` `Node.js`
 
