@@ -1,7 +1,7 @@
 <!--
   GANTI semua placeholder berikut:
-  USERNAME   -> username GitHub kamu
-  NAMA       -> nama kamu
+  USERNAME   -> afza-code
+  NAMA       -> Akmallutfi Afza Gusty
   (cari & ganti pakai Ctrl+F di editor)
 -->
 
