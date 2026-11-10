@@ -22,9 +22,9 @@
 ```text
 $ cat about.txt
 
-👨‍💻  Role       : Fullstack Developer
+👨‍💻  Role       : Fullstack Developer & AI Enginner
 📍  Lokasi     : Bandung, Indonesia
-🔭  Sekarang   : Mengerjakan proyek ...
+🔭  Sekarang   : Mengerjakan proyek desakita
 🌱  Belajar    : TypeScript, Cloud, AI
 🤝  Terbuka    : Kolaborasi & open source
 ⚡  Fun fact   : Kopi dulu, baru ngoding ☕
